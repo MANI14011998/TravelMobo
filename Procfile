@@ -1,0 +1,1 @@
+web: gunicorn nagaro.wsgi --log-file -
